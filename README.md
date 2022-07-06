@@ -1,13 +1,13 @@
 # ✨TODAY I Learned✨
 
-### JULY
+### 📕JULY
 
-### AUDUST
+### 📕AUDUST
 
-### SEPTEMBER
+### 📕SEPTEMBER
 
-### OCTOBER
+### 📕OCTOBER
 
-### NOVEMBER
+### 📕NOVEMBER
 
-### DECEMBER
+### 📕DECEMBER
