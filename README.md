@@ -6,6 +6,7 @@
 * [0705](https://github.com/YoonDii/TIL/blob/master/KDT_0705/KDT_0705.md)
 * [0706](https://github.com/YoonDii/TIL/blob/master/KDT_0706/KDT_0706.md)
 * [0707](https://github.com/YoonDii/TIL/blob/master/KDT_0707/KDT_0707.md)
+* [0708](https://github.com/YoonDii/TIL/blob/master/KDT_0708/0708.md)
 
 
 ### 📕AUGUST
