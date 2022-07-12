@@ -17,6 +17,7 @@
 <summary>2주차</summary>
 
 - [0711](https://github.com/YoonDii/TIL/blob/master/KDT_0711/README.md)
+- [0712](https://github.com/YoonDii/TIL/tree/master/KDT_0712)
 
 </details>
 
