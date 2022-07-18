@@ -24,7 +24,14 @@
 
 </details>
 
+<details>
+<summary>3주차</summary>
 
+- [0718](https://github.com/YoonDii/TIL/tree/master/KDT_0718)
+
+</details>    
+
+​    
 
 
 ### 📕AUGUST
