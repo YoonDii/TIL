@@ -29,6 +29,7 @@
 
 - [0718](https://github.com/YoonDii/TIL/tree/master/KDT_0718)
 - [0719](https://github.com/YoonDii/TIL/tree/master/KDT_0719)
+- [0720](https://github.com/YoonDii/TIL/tree/master/KDT_0720)
 
 </details>    
 
