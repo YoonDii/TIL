@@ -215,4 +215,4 @@ def minus_and_product(x, y):
     a, b = map(int, input().split())
     ```
 
-    
+    *파이썬 자습서를 자주읽자!*
