@@ -16,3 +16,4 @@
 
   > 출처: https://docs.python.org/ko/3/tutorial/inputoutput.html#reading-and-writing-files
 
+*실습파일로 대체*
