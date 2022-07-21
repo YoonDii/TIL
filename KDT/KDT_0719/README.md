@@ -121,3 +121,4 @@ print(a == b , a is b) #Ture, Ture
     ```
 
     
+    *심화*
