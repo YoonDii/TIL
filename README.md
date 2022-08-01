@@ -41,10 +41,18 @@
  - [0725](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0725)
  - [0726](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0726)
  - [0727](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0727)
+ - [0728](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0728)
 
 </details>
 
 ### 📕AUGUST
+
+<details>
+<summary>1주차</summary> 
+
+- [0801](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0801)
+
+</details>
 
 ### 📕SEPTEMBER
 
