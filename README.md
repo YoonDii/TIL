@@ -51,6 +51,7 @@
 <summary>1주차</summary> 
 
 - [0801](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0801)
+- [0802](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0802)
 
 </details>
 
