@@ -61,6 +61,9 @@
 <summary>2주차</summary> 
 
 - [0808](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0808)
+- [0809](https://github.com/YoonDii/TIL/blob/master/KDT/KDT_0809)
+- [0810](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0810)
+- [0811](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0811)
 
 </details>
 
