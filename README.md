@@ -67,6 +67,13 @@
 
 </details>
 
+<details>
+<summary>3주차</summary> 
+
+- [0816](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0816)
+
+</details>
+
 ### 📕SEPTEMBER
 
 ### 📕OCTOBER
