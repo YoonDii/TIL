@@ -114,4 +114,4 @@ DROP COLUMN column_name;
 ```
 
 
-
+--생각보다 외울게 많다!
