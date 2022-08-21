@@ -73,7 +73,7 @@
 - [0816](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0816)
 - [0817](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0817)
 - [0818](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0818)
-
+- [0819](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0819)
 </details>
 
 ### 📕SEPTEMBER
