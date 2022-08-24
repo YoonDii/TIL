@@ -80,6 +80,9 @@
 <summary>4주차</summary> 
 
 - [0822](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0822)
+- [0823]
+- [0824]
+- [SQLD이론1](https://github.com/YoonDii/TIL/blob/master/KDT/SQLD%EC%9D%B4%EB%A1%A0/SQLD%20%EC%9D%B4%EB%A1%A0.md)
 
 </details>
 
