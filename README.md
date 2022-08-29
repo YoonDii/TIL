@@ -83,9 +83,13 @@
 - [0823](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0823)
 - [0824](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0824)
 - [SQLD이론1](https://github.com/YoonDii/TIL/blob/master/KDT/SQLD%EC%9D%B4%EB%A1%A0/SQLD%20%EC%9D%B4%EB%A1%A0.md)
-
 </details>
 
+<details>
+<summary>5주차</summary>
+
+- [0829](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0829)
+</details>
 ### 📕SEPTEMBER
 
 ### 📕OCTOBER
