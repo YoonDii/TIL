@@ -89,7 +89,11 @@
 <summary>5주차</summary>
 
 - [0829](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0829)
+- [0830](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0830)
+- [0831](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0831)
+
 </details>
+
 ### 📕SEPTEMBER
 
 ### 📕OCTOBER
