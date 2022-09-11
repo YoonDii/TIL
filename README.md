@@ -96,6 +96,22 @@
 
 ### 📕SEPTEMBER
 
+<details>
+<summary>1주차</summary>
+
+- [0901](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0901)
+
+</details>
+
+<details>
+<summary>2주차</summary>
+
+- [0905](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0905)
+- [0906](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0906)
+- [0907](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0907)
+
+</details>
+
 ### 📕OCTOBER
 
 ### 📕NOVEMBER
