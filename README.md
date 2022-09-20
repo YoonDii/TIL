@@ -129,6 +129,8 @@
 - [0919](https://github.com/YoonDii/WEB/tree/master/WEB12)
 - [0920](https://yoondii.github.io/WEB/WEB13/index.html)
 
+</details>
+
 ### 📕OCTOBER
 
 ### 📕NOVEMBER
