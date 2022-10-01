@@ -128,6 +128,18 @@
 
 - [0919](https://github.com/YoonDii/WEB/tree/master/WEB12)
 - [0920](https://yoondii.github.io/WEB/WEB13/index.html)
+- [0921](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0921)
+- [0922](https://github.com/YoonDii/WEB/tree/master/Django1)
+
+</details>
+
+<details>
+<summary>5주차</summary>
+
+- [0926](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0926)
+- [0927](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0927)
+- [0928](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0928)
+- [0929](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0929)
 
 </details>
 
