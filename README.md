@@ -140,10 +140,21 @@
 - [0927](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0927)
 - [0928](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0928)
 - [0929](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_0929)
+- [0930](https://github.com/YoonDii/pair-pjt)
 
 </details>
 
 ### 📕OCTOBER
+
+<details>
+<summary>1주차</summary>
+
+- [1004](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_1004)
+- [1005](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_1005)
+- [1006](https://github.com/YoonDii/WEB/tree/master/Django8)
+- [1007](https://github.com/YoonDii/pair-2)
+
+</details>
 
 ### 📕NOVEMBER
 
