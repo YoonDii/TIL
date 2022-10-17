@@ -161,7 +161,7 @@
 
 - [1011](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_1011)
 - [1012](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_1012)
-- [1013]
+- [1013](https://github.com/YoonDii/TIL/tree/master/KDT/KDT_1013)
 - [1014](https://github.com/YoonDii/pair-3)
 
 </details>
