@@ -227,6 +227,42 @@ detail.html
 
 {% extends 'base.html'%}
 {% block content %}
-	<h2 class="text-center">DETAIL</h2>
-	<h3>{{}}
+  <h2 class="text-center">DETAIL</h2>
+<h3>{{article.pk}} 번 글</h3>
+<img src="{{ article.imge.url}}" alt="{{ article.image}}"
+<hr>
+...
+{% endblock%}
 ```
+
+#### 이미지 업로드 (UPDATE)
+
+이미지는 바이너리 데이터(하나의 덩어리)이기 때문에 텍스트처럼 일부만 수정 하는 것은 불가능하고, 새로운 사진으로 덮어 씌우는 방식을 사용
+
+```html
+{% exteds 'base.html'%}
+
+{% block content %}
+  <h1>UPDATE</h1>
+  <form action="{% url 'articles:update' article.pk%}" method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{form.as_p}}
+    <button>
+      수정
+    </button>
+</form>
+{% endblock content %}
+```
+
+#### 이미지 Resizing
+
+##### Django-imagekit
+
+- 실제 원본 이미지를 서버에 그대로 업로드 하는 것은 서버의 부담이 큰 작업 
+- img태그에서 직접 사이즈를 조정할 수도 있지만 (width 와 height), 업로드 될 때 이미지 자체를 resizing 하는 것을 사용해 볼 것 
+- django-imagekit 라이브러리 활용
+
+1. django-imagekit 설치 
+2. INSTALLED_APPS에 추가
+
+ProcessedImageField()의 parameter로 작성된 값들은 변경이 되더라도 다시 makemigrations를 해줄 필요없이 즉시 반영 됨
